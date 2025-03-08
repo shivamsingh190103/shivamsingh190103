@@ -46,7 +46,7 @@ IT Undergrad @AKGEC &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| 
 <h3 align="left">More About the tools I use :</h3>
 
 ```javascript
-const rudreshwar = {
+const shivam = {
     code: ["Javascript", "C++", "Java", "C"],
     technologies: {
         basic: ["html", "css", "javascript"]
