@@ -26,23 +26,19 @@ IT Undergrad @AKGEC &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| 
 [![X: shivam](https://img.shields.io/twitter/follow/shivams29112941?label=Twitter)](https://twitter.com/shivams29112941) &nbsp; &nbsp;
 [![Linkedin: rudra](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamsingh19012003/)](https://www.linkedin.com/in/shivamsingh19012003/) &nbsp; &nbsp;
 [![GitHub: followers](https://img.shields.io/github/followers/shivamsingh190103?label=Github&style=social)](https://www.github.com/shivamsingh190103) &nbsp; &nbsp;
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devrudra9.github.io/)](https://devrudra9.github.io/) &nbsp; &nbsp;
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://shivamsingh190103.github.io/MyPortfolio/)](https://shivamsingh190103.github.io/MyPortfolio/) &nbsp; &nbsp;
 <hr>
 
 # Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/rudreshwar-baranwal-a15622211" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="rudreshwar-baranwal-a15622211" height="40" width="40" />
+<a href="https://linkedin.com/in/shivamsingh19012003" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="shivamsingh19012003" height="40" width="40" />
 </a> &nbsp;
-<a href="https://twitter.com/Rudrr_a" target="_blank">
-    <img align="center" src="https://www.pngkey.com/png/full/376-3769707_facebook-icon-instagram-icon-twitter-icon-twitter-icon.png" alt="twitter" height="40" width="40" />
+<a href="https://x.com/shivams29112941" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png?20230728230735" alt="twitter" height="40" width="40" />
 </a> &nbsp;
-<a href="https://www.youtube.com/channel/UCxJtEaHxV4DNA4ZSiFrexOg" target="_blank">
-    <img align="center" src="https://clipart-library.com/images/dc4LABqni.png" alt="youtube" height="30" width="40" />
-</a> &nbsp;
-<a href="https://dev.to/devrudra9" target="_blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="youtube" height="40" width="40" />
-</a> &nbsp;
+
+
 </p>
 
 <hr>
@@ -74,10 +70,10 @@ const rudreshwar = {
 
 # GitHub Stats 📈
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrudra9&theme=radical&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrudra9&layout=compact&theme=tokyonight)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamsingh190103&theme=radical&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsingh190103&layout=compact&theme=tokyonight)|
 |-|-|
-![](https://github-readme-stats.vercel.app/api?username=devrudra9&&show_icons=true&title_color=00f0d0&icon_color=bb2acf&text_color=daf7dc&bg_color=000314)|![](https://streak-stats.demolab.com?user=devrudra9&theme=dark)|
+![](https://github-readme-stats.vercel.app/api?username=shivamsingh190103&&show_icons=true&title_color=00f0d0&icon_color=bb2acf&text_color=daf7dc&bg_color=000314)|![](https://streak-stats.demolab.com?user=shivamsingh190103&theme=dark)|
 
 <hr>
 
-[![An image of @rudra_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudra_)](https://holopin.io/@rudra_)
+
