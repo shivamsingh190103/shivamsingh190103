@@ -1,12 +1,12 @@
-# Hello Folks! ```rudreshwar_``` here
+# Hello Folks! ```Shivam Singh``` here
 
  <!-- Profile views -->
- <img src="https://komarev.com/ghpvc/?username=devrudra9&label=Github%20Hits%20Stats&color=7842f9&style=flat" alt="devrudra9" />
- <img src="https://stats.quine.sh/devrudra9/github?theme=dark" alt="devrudra9's GitHub | Stats" align="right" height="300">
+ <img src="https://komarev.com/ghpvc/?username=shivamsingh19012003&label=Github%20Hits%20Stats&color=7842f9&style=flat" alt="shivamsingh19012003" />
+ <img src="https://stats.quine.sh/shivamsingh19012003/github?theme=dark" alt="devrudra9's GitHub | Stats" align="right" height="300">
  
- <p align="left">My name is Rudreshwar Baranwal and I'm a Fullstack Developer.
+ <p align="left">My name is Shivam Singh and I'm a Fullstack Developer.
   
-IT Undergrad @IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| &nbsp;coder
+IT Undergrad @AKGEC &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| &nbsp;coder
   
 <!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
 </p>
@@ -15,7 +15,7 @@ IT Undergrad @IIESTS &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;|
 
 👯 I’m looking to collaborate on different projects
 
-👨‍💻 All of my projects are available at [my website](https://github.com/devrudra9)
+👨‍💻 All of my projects are available at [my website]()
 
 👀 Ask me about React, NextJS, NodeJS, and APIs
 
