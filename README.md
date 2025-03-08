@@ -1,8 +1,8 @@
-# Hello Folks! ```Shivam Singh``` here
+# Hello Folks! ```shivam_``` here
 
  <!-- Profile views -->
- <img src="https://komarev.com/ghpvc/?username=shivamsingh19012003&label=Github%20Hits%20Stats&color=7842f9&style=flat" alt="shivamsingh19012003" />
- <img src="https://stats.quine.sh/shivamsingh19012003/github?theme=dark" alt="devrudra9's GitHub | Stats" align="right" height="300">
+ <img src="https://komarev.com/ghpvc/?username=shivamsingh19012003&label=Github%20Hits%20Stats&color=7842f9&style=flat" alt="ShivamSingh" />
+ <img src="https://stats.quine.sh/shivamsingh19012003/github?theme=dark" alt="shivam's GitHub | Stats" align="right" height="300">
  
  <p align="left">My name is Shivam Singh and I'm a Fullstack Developer.
   
@@ -11,21 +11,21 @@ IT Undergrad @AKGEC &nbsp;| &nbsp;musicLover &nbsp;| &nbsp;webDeveloper &nbsp;| 
 <!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
 </p>
 
-🌱 I’m currently learning DevOps && AWS
+🌱 I’m currently learning DevOps , AWS & Data Structures & Algorithm
 
 👯 I’m looking to collaborate on different projects
 
-👨‍💻 All of my projects are available at [my website]()
+👨‍💻 All of my projects are available at [my website](https://shivamsingh190103.github.io/MyPortfolio/)
 
-👀 Ask me about React, NextJS, NodeJS, and APIs
+👀 Ask me about React, NextJS, NodeJS, APIs, Spring Boot Java
 
-📫You can reach me at baranwalrudreshwar@gmail.com
+📫You can reach me at sshivamsingh0480@gmail.com
 
 <br>
 
-[![Twitter: rudra](https://img.shields.io/twitter/follow/Rudrr_a?label=Twitter)](https://twitter.com/Rudrr_a) &nbsp; &nbsp;
-[![Linkedin: rudra](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/)](https://www.linkedin.com/in/rudreshwar-baranwal-a15622211/) &nbsp; &nbsp;
-[![GitHub: followers](https://img.shields.io/github/followers/devrudra9?label=Github&style=social)](https://www.github.com/devrudra9) &nbsp; &nbsp;
+[![X: shivam](https://img.shields.io/twitter/follow/shivams29112941?label=Twitter)](https://twitter.com/shivams29112941) &nbsp; &nbsp;
+[![Linkedin: rudra](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamsingh19012003/)](https://www.linkedin.com/in/shivamsingh19012003/) &nbsp; &nbsp;
+[![GitHub: followers](https://img.shields.io/github/followers/shivamsingh190103?label=Github&style=social)](https://www.github.com/shivamsingh190103) &nbsp; &nbsp;
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devrudra9.github.io/)](https://devrudra9.github.io/) &nbsp; &nbsp;
 <hr>
 
