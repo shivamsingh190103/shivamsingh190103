@@ -62,7 +62,7 @@ const shivam = {
     },
     courseWork: ["OS", "DBMS", "CN", "DAA", "OOPS", "CD"],
     askMeAbout: ["web dev", "tech", "travelling", "music"],
-    funFact: "Never use python, when you've got javascript."
+    
 };
 ```
 
